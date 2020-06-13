@@ -305,3 +305,5 @@ defaults:
       comments: false
       share: false
       related: false
+
+theme: jekyll-theme-cayman
