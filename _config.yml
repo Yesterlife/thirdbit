@@ -306,4 +306,4 @@ defaults:
       share: false
       related: false
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
